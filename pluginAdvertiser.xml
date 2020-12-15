@@ -539,14 +539,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.jade">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
-              <option name="myPluginName" value="Pug (ex-Jade)" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.jar">
           <value>
             <plugin>
@@ -724,14 +716,6 @@
               <option name="myPluginId" value="org.coffeescript" />
               <option name="myPluginName" value="CoffeeScript" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.log">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.ideolog" />
-              <option name="myPluginName" value="Ideolog" />
             </plugin>
           </value>
         </entry>
@@ -1040,14 +1024,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.pug">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
-              <option name="myPluginName" value="Pug (ex-Jade)" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1171,14 +1147,6 @@
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.styl">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.stylus" />
-              <option name="myPluginName" value="Stylus" />
             </plugin>
           </value>
         </entry>
