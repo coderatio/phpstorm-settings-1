@@ -1,13 +1,17 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="MonoLisa" />
     <option name="LINE_SPACING" value="1.8" />
     <option name="SECONDARY_FONT_FAMILY" value=".AppleSystemUIFontMonospaced" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.blade.php;*.vue;*.php;*.js;*.html;*.css;*.scss;*.ts" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
