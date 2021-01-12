@@ -68,6 +68,14 @@
     </option>
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="INFORMATION" enabled_by_default="true">
     <option name="myValues">
       <value>
