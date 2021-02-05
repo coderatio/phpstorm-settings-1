@@ -1,8 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="2979ff" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="accentColor" value="ab47bc" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-31c29018:17665417cf1:-7ffc" />
     <option name="version" value="5.5.0" />
   </component>
