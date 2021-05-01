@@ -5,11 +5,13 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
     <option name="FONT_FAMILY" value="Operator Mono" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Light" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
     <option name="LINE_SPACING" value="1.5" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.blade.php;*.vue;*.php;*.js;*.html;*.css;*.scss;*.ts" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.blade.php;*.vue;*.php;*.js;*.html;*.css;*.scss;*.ts;*.md" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
